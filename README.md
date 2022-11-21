@@ -1,14 +1,17 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+# Welcome to MS Teams Clone!
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+### [Example Website](https://chat-app-jsmastery.netlify.app)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+
+Its a good example of learning react and creating something production ready!
+
+## Want to build this too?
+
+Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)

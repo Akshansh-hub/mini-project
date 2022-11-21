@@ -23,10 +23,12 @@ module.exports = {
     'react',
   ],
   rules: {
+    'react/react-in-jsx-scope': 'off',
     'import/extensions': 0,
     'react/prop-types': 0,
     'linebreak-style': 0,
     'react/state-in-constructor': 0,
+    'jsx-a11y/label-has-associated-control': 'off',
     'import/prefer-default-export': 0,
     'max-len': [
       2,
@@ -39,7 +41,6 @@ module.exports = {
         maxEOF: 1,
       },
     ],
-    'camelcase': 0,
     'no-underscore-dangle': [
       'error',
       {
@@ -55,6 +56,7 @@ module.exports = {
         ],
       },
     ],
+    'react/jsx-props-no-spreading': 'off',
     'object-curly-newline': 0,
     'react/jsx-filename-extension': 0,
     'react/jsx-one-expression-per-line': 0,
